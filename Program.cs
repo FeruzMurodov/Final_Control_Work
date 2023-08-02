@@ -22,3 +22,12 @@ string[] MakeArrayFromString(string stringOfArray)
     }
     return result;
 }
+
+void PrintArray(string[] inArray)
+{
+    for (int i = 0; i < inArray.Length; i++)
+    {
+        Console.Write($"{inArray[i]} ");
+    }
+}
+
