@@ -31,3 +31,16 @@ void PrintArray(string[] inArray)
     }
 }
 
+string[] GetStringsLessThan3El(string[] inArrayString)
+{
+    string[] result = new string[inArrayString.Length];
+    for (int i = 0; i < result.Length; i++)
+    {
+        string temp = inArrayString[i];
+        if (temp.Length <= 3)
+        {
+            result[i] = temp;
+        }
+    }
+    return result;
+}
