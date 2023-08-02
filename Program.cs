@@ -11,3 +11,14 @@ string[] arrayString = MakeArrayFromString(Console.ReadLine()!);
 string[] result = GetStringsLessThan3El(arrayString);
 PrintArray(result);
 
+// Методы:
+string[] MakeArrayFromString(string stringOfArray)
+{
+    string[] words = stringOfArray.Split(' ', StringSplitOptions.RemoveEmptyEntries);
+    string[] result = new string[words.Length];
+    for (int i = 0; i < result.Length; i++)
+    {
+        result[i] = words[i];
+    }
+    return result;
+}
