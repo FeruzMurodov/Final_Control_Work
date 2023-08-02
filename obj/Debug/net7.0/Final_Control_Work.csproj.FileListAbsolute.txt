@@ -1,0 +1,15 @@
+D:\Visual Studio Code\C#\Final_Control_Work\obj\Debug\net7.0\Final_Control_Work.csproj.AssemblyReference.cache
+D:\Visual Studio Code\C#\Final_Control_Work\obj\Debug\net7.0\Final_Control_Work.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Code\C#\Final_Control_Work\obj\Debug\net7.0\Final_Control_Work.AssemblyInfoInputs.cache
+D:\Visual Studio Code\C#\Final_Control_Work\obj\Debug\net7.0\Final_Control_Work.AssemblyInfo.cs
+D:\Visual Studio Code\C#\Final_Control_Work\obj\Debug\net7.0\Final_Control_Work.csproj.CoreCompileInputs.cache
+D:\Visual Studio Code\C#\Final_Control_Work\bin\Debug\net7.0\Final_Control_Work.exe
+D:\Visual Studio Code\C#\Final_Control_Work\bin\Debug\net7.0\Final_Control_Work.deps.json
+D:\Visual Studio Code\C#\Final_Control_Work\bin\Debug\net7.0\Final_Control_Work.runtimeconfig.json
+D:\Visual Studio Code\C#\Final_Control_Work\bin\Debug\net7.0\Final_Control_Work.dll
+D:\Visual Studio Code\C#\Final_Control_Work\bin\Debug\net7.0\Final_Control_Work.pdb
+D:\Visual Studio Code\C#\Final_Control_Work\obj\Debug\net7.0\Final_Control_Work.dll
+D:\Visual Studio Code\C#\Final_Control_Work\obj\Debug\net7.0\refint\Final_Control_Work.dll
+D:\Visual Studio Code\C#\Final_Control_Work\obj\Debug\net7.0\Final_Control_Work.pdb
+D:\Visual Studio Code\C#\Final_Control_Work\obj\Debug\net7.0\Final_Control_Work.genruntimeconfig.cache
+D:\Visual Studio Code\C#\Final_Control_Work\obj\Debug\net7.0\ref\Final_Control_Work.dll
